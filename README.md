@@ -57,9 +57,9 @@ sudo systemctl reload nginx
 ##### Use Filezilla and access your server then go to var/www/html
 ##### Then create directory to upload your files for sharing
 ## How to add theme for your ftp server
-##### Download this folder [ File Sharing Server Theme ]
+##### Download this folder [ File Sharing Server Theme or File Sharing Server Theme Edited by Floyd ]
 ##### Then again use filezilla and go to var/www/html 
-##### After that just copy the folder named _h5ai from the downloaded File Sharing Server Theme folder and paste the folder to var/www/html
+##### After that just copy the folder named _h5ai from the downloaded folder named [ File Sharing Server Theme ] or [ File Sharing Server Theme Edited by Floyd ] and paste the folder to var/www/html
 
 
 
